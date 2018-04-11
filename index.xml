@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhang Xiaoyu&#39;s homepage</title>
-    <link>http://mysticazhang.github.io/</link>
-    <description>Recent content on Zhang Xiaoyu&#39;s homepage</description>
+    <title>Mystica on Home</title>
+    <link>https://mysticazhang.github.io/</link>
+    <description>Recent content in Mystica on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Apr 2018 15:25:05 +0800</lastBuildDate>
     
-	<atom:link href="http://mysticazhang.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mysticazhang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>CodeRag</title>
-      <link>http://mysticazhang.github.io/notes/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>http://mysticazhang.github.io/notes/</guid>
-      <description>Notes: This article originally appeared in CodeRag.
-Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://mysticazhang.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mysticazhang.github.io/about/</guid>
-      <description>张晓雨，南京大学新闻传播学院学生，奥美数据科学实验室成员。
-曾实习于第一财经周刊、LinkedIn、网易，喜欢和人打交道的事情，也喜欢深夜在台灯下敲代码。略会新闻采写，略会数据挖掘，正在横向挖掘自己的技能。</description>
-    </item>
     
     <item>
       <title>Netease Game Telephone Interview</title>
-      <link>http://mysticazhang.github.io/blog/first/</link>
+      <link>https://mysticazhang.github.io/post/netease/</link>
+      <pubDate>Wed, 11 Apr 2018 15:25:05 +0800</pubDate>
+      
+      <guid>https://mysticazhang.github.io/post/netease/</guid>
+      <description>April 4th, the hr from Netease Game called me for appointing an interview date, and today a young lady called me at 15:00.
+This is my interview experience, just for reference only!
+ A brief Self-introduction first;
+ Talk me about a case in Netease Reader you have joined;
+ 3 words to describe yourself, and why? (well-knit; innovation; careful )
+ Give me an example for your innovation;
+ Do you play any games?</description>
+    </item>
+    
+    <item>
+      <title>一座小镇</title>
+      <link>https://mysticazhang.github.io/post/xiayun/</link>
+      <pubDate>Mon, 04 Dec 2017 23:58:08 +0800</pubDate>
+      
+      <guid>https://mysticazhang.github.io/post/xiayun/</guid>
+      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
+“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mysticazhang.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mysticazhang.github.io/blog/first/</guid>
-      <description>Title : Netease Game Telephone Interview Author : Zhang Xiaoyu
-April 4th, the hr from Netease Game called me for appointing an interview date, and today a young lady called me at 15:00. This is my interview experience, just for reference only!
- A brief Self-introduction first; Talk me about a case in Netease Reader you have joined; 3 words to describe yourself, and why? (well-knit; innovation; careful ) Give me an example for your innovation; Have you palyed some games?</description>
+      <guid>https://mysticazhang.github.io/contact/</guid>
+      <description>Tel: +86 17621618096
+Email: mystica0809@foxmail.com
+You can leave your messages, I will contact quickly!
+Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>

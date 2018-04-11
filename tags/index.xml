@@ -1,76 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Zhang Xiaoyu&#39;s homepage</title>
-    <link>http://mysticazhang.github.io/tags/</link>
-    <description>Recent content in Tags on Zhang Xiaoyu&#39;s homepage</description>
+    <title>Tags on Home</title>
+    <link>https://mysticazhang.github.io/tags/</link>
+    <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Apr 2018 15:25:05 +0800</lastBuildDate>
     
-	<atom:link href="http://mysticazhang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mysticazhang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>http://mysticazhang.github.io/tags/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mysticazhang.github.io/tags/about/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Aviato</title>
-      <link>http://mysticazhang.github.io/tags/aviato/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <title>Experience</title>
+      <link>https://mysticazhang.github.io/tags/experience/</link>
+      <pubDate>Wed, 11 Apr 2018 15:25:05 +0800</pubDate>
       
-      <guid>http://mysticazhang.github.io/tags/aviato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bachman</title>
-      <link>http://mysticazhang.github.io/tags/bachman/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>http://mysticazhang.github.io/tags/bachman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>http://mysticazhang.github.io/tags/game/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mysticazhang.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interview</title>
-      <link>http://mysticazhang.github.io/tags/interview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mysticazhang.github.io/tags/interview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Netease</title>
-      <link>http://mysticazhang.github.io/tags/netease/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mysticazhang.github.io/tags/netease/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pied Piper</title>
-      <link>http://mysticazhang.github.io/tags/pied-piper/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>http://mysticazhang.github.io/tags/pied-piper/</guid>
+      <guid>https://mysticazhang.github.io/tags/experience/</guid>
       <description></description>
     </item>
     
