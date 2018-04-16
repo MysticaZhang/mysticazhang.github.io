@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience on Home</title>
-    <link>https://mysticazhang.github.io/tags/experience/</link>
+    <link>http://mysticazhang.github.io/tags/experience/</link>
     <description>Recent content in Experience on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Apr 2018 15:25:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 15:25:05 +0800</lastBuildDate>
     
-	<atom:link href="https://mysticazhang.github.io/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mysticazhang.github.io/tags/experience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Netease Game Telephone Interview</title>
-      <link>https://mysticazhang.github.io/post/netease/</link>
-      <pubDate>Wed, 11 Apr 2018 15:25:05 +0800</pubDate>
+      <link>http://mysticazhang.github.io/post/20180410/</link>
+      <pubDate>Tue, 10 Apr 2018 15:25:05 +0800</pubDate>
       
-      <guid>https://mysticazhang.github.io/post/netease/</guid>
+      <guid>http://mysticazhang.github.io/post/20180410/</guid>
       <description>April 4th, the hr from Netease Game called me for appointing an interview date, and today a young lady called me at 15:00.
 This is my interview experience, just for reference only!
  A brief Self-introduction first;
@@ -28,12 +28,11 @@ This is my interview experience, just for reference only!
     
     <item>
       <title>一座小镇</title>
-      <link>https://mysticazhang.github.io/post/xiayun/</link>
+      <link>http://mysticazhang.github.io/post/20171204/</link>
       <pubDate>Mon, 04 Dec 2017 23:58:08 +0800</pubDate>
       
-      <guid>https://mysticazhang.github.io/post/xiayun/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+      <guid>http://mysticazhang.github.io/post/20171204/</guid>
+      <description>I ask the indulgence of the children who may read this book for dedicating it to a grown-up. I have a serious reason: he is the best friend I have in the world. I have another reason: this grown-up understands everything, even books about children. I have a third reason: he lives in France where he is hungry and cold. He needs cheering up. If all these reasons are not enough, I will dedicate the book to the child from whom this grown-up grew.</description>
     </item>
     
   </channel>

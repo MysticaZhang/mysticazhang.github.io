@@ -2,21 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Home</title>
-    <link>https://mysticazhang.github.io/post/</link>
+    <link>http://mysticazhang.github.io/post/</link>
     <description>Recent content in Articles on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://mysticazhang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mysticazhang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Netease Game Telephone Interview</title>
-      <link>https://mysticazhang.github.io/post/netease/</link>
-      <pubDate>Wed, 11 Apr 2018 15:25:05 +0800</pubDate>
+      <title>对于找工作、暑期实习的些许观点</title>
+      <link>http://mysticazhang.github.io/post/20180412/</link>
+      <pubDate>Thu, 12 Apr 2018 23:27:08 +0800</pubDate>
       
-      <guid>https://mysticazhang.github.io/post/netease/</guid>
+      <guid>http://mysticazhang.github.io/post/20180412/</guid>
+      <description>We are introduced to the narrator, a pilot, and his ideas about grown-ups
+Once when I was six years old I saw a magnificent picture in a book, called True Stories from Nature, about the primeval forest. It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing.
+In the book it said: &amp;ldquo;Boa constrictors swallow their prey whole, without chewing it.</description>
+    </item>
+    
+    <item>
+      <title>git更新个人主页内容</title>
+      <link>http://mysticazhang.github.io/post/20180411/</link>
+      <pubDate>Wed, 11 Apr 2018 23:25:05 +0800</pubDate>
+      
+      <guid>http://mysticazhang.github.io/post/20180411/</guid>
+      <description>I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them.
+But they answered: &amp;ldquo;Frighten? Why should any one be frightened by a hat?&amp;rdquo;
+My drawing was not a picture of a hat. It was a picture of a boa constrictor digesting an elephant. But since the grown-ups were not able to understand it, I made another drawing: I drew the inside of the boa constrictor, so that the grown-ups could see it clearly.</description>
+    </item>
+    
+    <item>
+      <title>Netease Game Telephone Interview</title>
+      <link>http://mysticazhang.github.io/post/20180410/</link>
+      <pubDate>Tue, 10 Apr 2018 15:25:05 +0800</pubDate>
+      
+      <guid>http://mysticazhang.github.io/post/20180410/</guid>
       <description>April 4th, the hr from Netease Game called me for appointing an interview date, and today a young lady called me at 15:00.
 This is my interview experience, just for reference only!
  A brief Self-introduction first;
@@ -28,12 +50,11 @@ This is my interview experience, just for reference only!
     
     <item>
       <title>一座小镇</title>
-      <link>https://mysticazhang.github.io/post/xiayun/</link>
+      <link>http://mysticazhang.github.io/post/20171204/</link>
       <pubDate>Mon, 04 Dec 2017 23:58:08 +0800</pubDate>
       
-      <guid>https://mysticazhang.github.io/post/xiayun/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+      <guid>http://mysticazhang.github.io/post/20171204/</guid>
+      <description>I ask the indulgence of the children who may read this book for dedicating it to a grown-up. I have a serious reason: he is the best friend I have in the world. I have another reason: this grown-up understands everything, even books about children. I have a third reason: he lives in France where he is hungry and cold. He needs cheering up. If all these reasons are not enough, I will dedicate the book to the child from whom this grown-up grew.</description>
     </item>
     
   </channel>
