@@ -6,10 +6,19 @@
     <description>Recent content in Mystica on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Apr 2018 23:27:08 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 23:25:05 +0800</lastBuildDate>
     
 	<atom:link href="http://mysticazhang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>实习作品合辑</title>
+      <link>http://mysticazhang.github.io/post/20180422/</link>
+      <pubDate>Sun, 22 Apr 2018 23:25:05 +0800</pubDate>
+      
+      <guid>http://mysticazhang.github.io/post/20180422/</guid>
+      <description>It took me a long time to learn where he came from. The little prince, who asked me so many questions, never seemed to hear the ones I asked him. It was from words dropped by chance that, little by little, everything was revealed to me. The first time he saw my airplane, for instance (I shall not draw my airplane; that would be much too complicated for me), he asked me:</description>
+    </item>
     
     <item>
       <title>对于找工作、暑期实习的些许观点</title>
@@ -67,6 +76,15 @@ This is my interview experience, just for reference only!
 Email: mystica0809@foxmail.com
 You can leave your messages, I will contact quickly!
 Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>在新一线城市做短租房东</title>
+      <link>http://mysticazhang.github.io/post/20160303%E6%96%B0%E4%B8%80%E7%BA%BF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mysticazhang.github.io/post/20160303%E6%96%B0%E4%B8%80%E7%BA%BF/</guid>
+      <description>It took me a long time to learn where he came from. The little prince, who asked me so many questions, never seemed to hear the ones I asked him. It was from words dropped by chance that, little by little, everything was revealed to me. The first time he saw my airplane, for instance (I shall not draw my airplane; that would be much too complicated for me), he asked me:</description>
     </item>
     
   </channel>

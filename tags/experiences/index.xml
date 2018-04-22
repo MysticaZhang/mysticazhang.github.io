@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Home</title>
+    <link>http://mysticazhang.github.io/tags/experiences/</link>
+    <description>Recent content in Experiences on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Apr 2018 23:25:05 +0800</lastBuildDate>
+    
+	<atom:link href="http://mysticazhang.github.io/tags/experiences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>实习作品合辑</title>
+      <link>http://mysticazhang.github.io/post/20180422/</link>
+      <pubDate>Sun, 22 Apr 2018 23:25:05 +0800</pubDate>
+      
+      <guid>http://mysticazhang.github.io/post/20180422/</guid>
+      <description>It took me a long time to learn where he came from. The little prince, who asked me so many questions, never seemed to hear the ones I asked him. It was from words dropped by chance that, little by little, everything was revealed to me. The first time he saw my airplane, for instance (I shall not draw my airplane; that would be much too complicated for me), he asked me:</description>
+    </item>
+    
+  </channel>
+</rss>
